@@ -1,0 +1,13 @@
+body {
+  background-image: url("nuke.png");
+  font-size: 55px 
+}
+h1 {
+  color: blue;
+  font-size: 70px;
+  font-style: oblique;
+}
+
+p {
+  color: green;
+}
